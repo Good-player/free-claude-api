@@ -3,3 +3,4 @@ https://pastebin.com/5C1hPkQw
 password: B7nuHzPJqp
 (btw i own the key)
 # Do a issue if api key not working.
+Please use some cheap models. This is not forever.
